@@ -1,0 +1,196 @@
+.homepage-container {
+    height: 2783px;
+    width: 100%;
+    background-color: rgb(0, 217, 255); /* For browsers that do not support gradients */
+    background-image: linear-gradient(to  right, #46cfee, rgb(179, 237, 245));
+  }
+  .header {
+    height: 80px;
+    padding: 10px 16px;
+    background: white;
+    color: #f1f1f1;
+    position:sticky;
+    top: 0;
+    z-index:2;
+  }
+  
+  .header-container 
+{
+  position:absolute;
+  top: 0;
+  margin-left: 500px;
+  font-size: 20px;
+  margin-top: 15px;
+}
+.header-container-2
+{
+  position:absolute;
+  top: 10px;
+  right: 20px;
+}
+a
+{
+    text-decoration: none;
+    color:#46cfee;
+    font-size: 20px;
+}
+  .content {
+    padding: 16px;
+  }
+  
+  .btn{
+      float:right;
+    padding: 14px 28px;
+    font-size: 15px;
+  }
+ 
+  .SignUp {
+    margin-right: 30px;
+    border-color: #2196F3;
+    color: dodgerblue;
+  }
+  .Login {
+    margin-left: 250px;
+    border-color: #2196F3;
+    color: dodgerblue;
+  }
+  .Support {
+    border-color: #2196F3;
+    color: dodgerblue;
+  }
+  .Profile {
+    border-color: #2196F3;
+    color: dodgerblue;
+  }
+  .Home {
+    border-color: #2196F3;
+    color: dodgerblue;
+  }
+  .slideshow-container
+  {
+      width: 100%;
+      height: 50vh;
+  }
+
+.carousel-item .first
+{
+  width:100%;
+  filter: brightness(50%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 80vh;
+}
+.carousel-item .second
+{
+  width:100%;
+  filter: brightness(50%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 80vh;
+}
+.carousel-item .third
+{
+  width:100%;
+  filter: brightness(50%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 80vh;
+}
+.carousel-item .fourth
+{
+  width:100%;
+  filter: brightness(50%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 80vh;
+}
+.carousel-item .fifth
+{
+  width:100%;
+  filter: brightness(50%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 80vh;
+}
+.carousel-text
+{
+  margin-top: -490px;
+  text-align: center;
+  margin-left: 310px;
+  position: absolute;
+  color: white;
+}
+hr
+{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border: 3px solid white;
+}
+.allinone{
+  height: 300px;
+  width: 30%;
+  border: 3px solid #2196F3;
+  margin-left: 500px;
+  margin-top:100px;
+  border-radius:15px;
+  
+}
+.col{
+  height: 300px;
+  width: 30%;
+  margin-top:100px;
+  border: 3px solid #2196F3;
+  border-radius:15px;
+}
+.buttons{
+  height: 500px;
+  display:grid;
+  font-size:60px;
+  padding: 50px;
+  grid-template-columns:1fr;
+  width: 30%;
+  
+  border: 3px solid #2196F3;
+  border-radius:15px;
+  margin-left: 500px;
+  margin-top:100px;
+  
+}
+.btn-info
+{
+  font-size: 25px;
+  background:black;
+}
+.footer-container{
+  width: 100%;
+  height: 500px;
+  margin-top:100px;
+  border: 3px solid #2196F3;
+  border-radius:10px;
+}
+.vl {
+  border-left: 3px solid #2196F3;
+  height: 300px;
+}
+.underline{
+ border: 2px solid #2196F3;
+ width:300px;
+ 
+ 
+}
+.input{
+  margin-top:50px;
+  width: 300px;
+  height: 50px;
+}
+.social{
+  height: 50px;
+  width: 100%;
+  border: 3px solid #2196F3;
+  margin-top:45px;
+}

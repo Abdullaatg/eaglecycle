@@ -1,0 +1,103 @@
+.container {
+    height: 2783px;
+    width: 100%;
+    background-color: rgb(0, 217, 255); /* For browsers that do not support gradients */
+    background-image: linear-gradient(to  right, #46cfee, rgb(179, 237, 245));
+  }
+  .picturetext{
+    top:20%;
+    position: absolute;
+   margin-left:400px;
+}
+.foodblog{
+    text-align: center;
+    margin-top:50px;
+    font-size:5em;
+}
+.recipe{
+    margin-left:50px;
+    margin-top:20px;
+    text-align:center;
+    font-size:2em;
+}
+.input{
+  text-align: center;
+  border-radius: 10px;
+  margin-left: 150px;
+}
+.grid1{
+    margin-top:100px;
+    margin-left: 80px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+}
+.gcol1{
+    border: 3px solid #2196F3;
+    height: 400px;
+    width: 80%;
+    border-radius: 10px;
+    background: skyblue;
+}
+.grid2{
+    margin-top:100px;
+    margin-left: 80px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+}
+.gcol2{
+    border: 3px solid #2196F3;
+    height: 400px;
+    width: 80%;
+    border-radius: 10px;
+    background: skyblue;
+}
+.grid3{
+    margin-top:100px;
+    margin-left: 80px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+}
+.gcol3{
+    border: 3px solid #2196F3;
+    height: 400px;
+    width: 80%;
+    border-radius: 10px;
+    background: skyblue;
+}
+.food{
+    text-align: center;
+    font-size:2.5em;
+
+}
+.name{
+    margin-top:10px;
+    margin-left: 10px;
+    font-size:2em;
+}
+.location{
+    margin-left: 10px;
+    font-size:1.5em;
+}
+.price{
+    float: right;
+    font-size:1.5em;
+    color: blue;
+}
+.btn-info
+{
+    
+    background:#333;
+    color:#46cfee;
+}
+.btn-more{
+    background: black;
+    color:#2196F3;
+    margin-top:150px;
+    float: right;
+    width: 20%;
+    padding: 10px;
+
+}

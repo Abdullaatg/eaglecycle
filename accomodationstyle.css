@@ -1,0 +1,99 @@
+.container {
+    height: 2783px;
+    width: 100%;
+    background-color: rgb(0, 217, 255); /* For browsers that do not support gradients */
+    background-image: linear-gradient(to  right, #46cfee, rgb(179, 237, 245));
+  }
+  .picturetext{
+      top:20%;
+      position: absolute;
+     margin-left:400px;
+  }
+  .reserve{
+      margin-top:30px;
+      font-size:4em;
+  }
+  .select{
+      margin-right: 100px;
+      margin-top:20px;
+      text-align:center;
+      font-size:2em;
+  }
+  .book{
+    margin-top:20px;
+    margin-right: 100px;
+      text-align:center;
+      font-size:1.5em;
+  }
+  .input{
+    text-align: center;
+    border-radius: 10px;
+}
+.choice{
+    text-align: center;
+    font-size:3em;
+    margin-top:30px;
+}
+.col{
+    
+}
+.grid1{
+    margin-top:50px;
+    margin-left: 80px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+}
+.gcol1{
+    border: 3px solid #2196F3;
+    height: 400px;
+    width: 80%;
+    border-radius: 10px;
+    background: skyblue;
+}
+.price{
+    color: blue;
+    float: right;
+    margin-top:10px;
+    margin-right: 20px;
+    font-size:1.5em;
+}
+.name{
+    margin-top:50px;
+    margin-left:20px;
+    font-size:2em;
+}
+.location{
+    margin-top:10px;
+    margin-left:20px;
+    font-size:2em;
+}
+.grid2{
+    margin-top:100px;
+    margin-left: 80px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+}
+.gcol2{
+    border: 3px solid #2196F3;
+    height: 400px;
+    width: 80%;
+    border-radius: 10px;
+    background: skyblue;
+}
+.btn-info
+{
+    float: right;
+    background:#333;
+    color:#46cfee;
+}
+.btn-more{
+    background: black;
+    color:#2196F3;
+    margin-top:150px;
+    float: right;
+    width: 20%;
+    padding: 10px;
+
+}
